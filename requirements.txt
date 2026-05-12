@@ -1,4 +1,4 @@
-Pillow
-numpy
+pillow-12.2.0-cp314
+numpy-2.4.4-cp314
 tensorflow
 
