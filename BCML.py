@@ -216,7 +216,7 @@ img {
 # LOAD MODEL
 # =========================
 #model = load_model("/src/model/Refined_model_cw_v6.keras")
-model = load_model("Refined_model_cw_v6.keras")
+model = load_model("Refined_model_cw_v6.keras",compile=False)
 
 # =========================
 # FUNCTION
