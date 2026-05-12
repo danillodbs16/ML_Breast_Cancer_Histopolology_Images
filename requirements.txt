@@ -1,4 +1,4 @@
-pillow-12.2.0-cp314
-numpy-2.4.4-cp314
+Pillow==10.4.0
+numpy==2.4.4
 tensorflow
 
