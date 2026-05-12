@@ -1,7 +1,4 @@
-streamlit
 PIL
 numpy
-io
 tensorflow
-tempfile
-time
+
