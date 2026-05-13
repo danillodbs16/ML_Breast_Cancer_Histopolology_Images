@@ -1,6 +1,6 @@
 numpy==1.26.4
-tensorflow==2.15.*
-keras==3.14.1
+tensorflow==2.15
+keras==2.14.1
 pillow==10.4.0
 streamlit
 rich
