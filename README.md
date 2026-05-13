@@ -5,17 +5,21 @@
 **GitHub:** https://github.com/danillodbs16/Breast_Cancer_Analysis  
 
 ---
+
 ## Repository Structure
-├── img/ # Figures and visualizations used in the report
-├── src/ # Source code
-│ ├── data/ # Project data
-│ ├── resources/ # Auxiliary resources
-│ ├── notebooks/ # Jupyter notebooks for analysis and exploration
-│ ├── utils/ # Helper functions and utilities
-│ ├── data/ # Processed datasets
-│ ├── html/ # Interactive HTML visualizations
-│ └── dashboard/ # Exported dashboard files (e.g., Superset)
-├── extra/ # Additional outputs (HTML visualizations and dashboards)
+
+```
+├── img/                # Figures and visualizations used in the report
+├── src/                # Source code
+│   ├── data/           # Project data
+│   ├── resources/      # Auxiliary resources
+│   ├── notebooks/      # Jupyter notebooks for analysis and exploration
+│   ├── utils/          # Helper functions and utilities
+│   ├── data/           # Processed datasets
+│   ├── html/           # Interactive HTML visualizations
+│   └── dashboard/      # Exported dashboard files (e.g., Superset)
+├── extra/              # Additional outputs (HTML visualizations and dashboards)
+```
 
 ## Overview
 
