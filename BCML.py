@@ -242,7 +242,7 @@ def load_crop_resize_image(image_path, s, mode="RGB"):
 # =========================
 #st.title(" 🔬 Breast Tumor Histopathology Classifier 🧬")
 st.markdown(
-    "<h1 style='text-align: center; font-size: 42px;'>🔬 Breast Tumor Histopathology Classifier 🧬</h1>",
+    "<h1 style='text-align: center; font-size: 42px;'> Breast Tumor Histopathology Classifier </h1>",
     unsafe_allow_html=True
 )
 #st.caption(

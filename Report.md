@@ -29,9 +29,9 @@ The dataset contains high-resolution microscopic images of breast tissue samples
 | Total Images | 1,995 |
 | Image Resolution | 700 × 460 pixels |
 | Target Task | Binary classification |
-| Magnification Used | 40× |
-| Class 0 | Benign (1,370 images) |
-| Class 1 | Malignant (625 images) |
+| Magnification Used | 40X|
+| Class 0 | Benign (625 images) |
+| Class 1 | Malignant (1,370 images) |
 
 ---
 

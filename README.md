@@ -37,8 +37,8 @@ The BreakHis (Breast Cancer Histopathological Dataset) was used in this study.
 - 700 × 460 resolution  
 - Magnification: 40×  
 - Classes:
-  - Benign (1,370 images)
-  - Malignant (625 images)
+  - Malignant (1,370 images)
+  - Benign (625 images)
 
 [Link Here](https://www.kaggle.com/code/nasrulhakim86/breast-cancer-histopathology-images-classificationhttps://www.kaggle.com/code/nasrulhakim86/breast-cancer-histopathology-images-classification)
 ---
